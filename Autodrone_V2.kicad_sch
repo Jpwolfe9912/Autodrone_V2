@@ -553,7 +553,7 @@
   (symbol (lib_id "JPW_Symbols:WRC") (at 195.58 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a25a0af3-ba5d-4626-b0bf-b638bab2a399)
-    (property "Reference" "L?" (id 0) (at 196.215 152.7615 0)
+    (property "Reference" "L7" (id 0) (at 196.215 152.7615 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WRC" (id 1) (at 196.215 155.5366 0)
@@ -1715,7 +1715,7 @@
       (reference "L6") (unit 1) (value "LED") (footprint "JPW_Footprints:LED")
     )
     (path "/a25a0af3-ba5d-4626-b0bf-b638bab2a399"
-      (reference "L?") (unit 1) (value "WRC") (footprint "JPW_Footprints:WRC2")
+      (reference "L7") (unit 1) (value "WRC") (footprint "JPW_Footprints:WRC2")
     )
     (path "/00000000-0000-0000-0000-00006083bf4a/00000000-0000-0000-0000-00006086323c"
       (reference "Q1") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
